@@ -1,0 +1,49 @@
+* [33mcommit b9f22308c2f96f4fb0cb95133df1187aba80b1e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Mon Dec 21 18:18:51 2020 -0300
+[31m|[m 
+[31m|[m     Revert "Criando Repository e Service para Categoria"
+[31m|[m     
+[31m|[m     This reverts commit dc919b8b741f8d6b85f9d545f2049a03091211ec.
+[31m|[m 
+* [33mcommit dc919b8b741f8d6b85f9d545f2049a03091211ec[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Mon Dec 21 17:46:45 2020 -0300
+[31m|[m 
+[31m|[m     Criando Repository e Service para Categoria
+[31m|[m 
+* [33mcommit 9cad6140d83bae8f4d25f2b009beed833b34bf89[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Sat Dec 19 17:18:35 2020 -0300
+[31m|[m 
+[31m|[m     Criando Repository e Service para Categoria
+[31m|[m 
+* [33mcommit 04778481f57efc777b7b4f7d4300168e0ce65910[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Tue Dec 15 19:21:35 2020 -0300
+[31m|[m 
+[31m|[m     Ajustando a comunicação com BD para consulta online, Pacote Javax instalado para configurar os comandos para o Banco de Dados H2 e Postman
+[31m|[m 
+* [33mcommit a0ca2072f306b93ab8239e89b65b0ab6a33be364[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Tue Dec 15 16:23:55 2020 -0300
+[31m|[m 
+[31m|[m     Começando a configurar comandos com pacote Javax
+[31m|[m 
+* [33mcommit 013044f64825690263ff87e2563f6bb86dbc9186[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Tue Dec 15 14:46:22 2020 -0300
+[31m|[m 
+[31m|[m     Testando a primeira Classe de dominio chamada Categoria
+[31m|[m 
+* [33mcommit e3469e47f9d7bfa4655e6525abf5687af6d62049[m
+[31m|[m Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+[31m|[m Date:   Tue Dec 15 14:02:53 2020 -0300
+[31m|[m 
+[31m|[m     Rest testado
+[31m|[m 
+* [33mcommit c3c0d6714c57734c96b8b18bf0d1d2664fd5eb52[m
+  Author: Everton da Silva Serafim <thi.ger@hotmail.com>
+  Date:   Fri Dec 11 18:30:44 2020 -0300
+  
+      Iniciando o Projeto Spring Tool Suite para desenvolver BD com UML
